@@ -19,10 +19,10 @@ spring:
             enabled: false
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:mysql://localhost:3306/viaikea?useUnicode=true&characterEncoding=utf8&useSSL=false
+        url: jdbc:mysql://m7wltxurw8d2n21q.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306?useUnicode=true&characterEncoding=utf8&useSSL=false
         name:
-        username: root
-        password:
+        username: umfczxpaut8j6oom
+        password: ira94smjrsqgaxcz
         hikari:
             data-source-properties:
                 cachePrepStmts: true
