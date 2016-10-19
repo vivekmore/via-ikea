@@ -96,7 +96,8 @@ To set up a CI environment, consult the [Setting up Continuous Integration][] pa
 ## Deploying to Heroku 
 
 To make heroku find the right build pack:
-heroku buildpacks:set https://github.com/heroku/heroku-buildpack-java
+
+    heroku buildpacks:set https://github.com/heroku/heroku-buildpack-java
 
 [JHipster Homepage and latest documentation]: https://jhipster.github.io
 [JHipster 3.9.1 archive]: https://jhipster.github.io/documentation-archive/v3.9.1
